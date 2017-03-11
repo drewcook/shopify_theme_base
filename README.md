@@ -13,7 +13,7 @@ This is a boilerplate starter theme for Shopify. This new build process utilizes
 
 ###To initialize a new theme development build:
 
-1. Download this repo's .zip file
+1. Download this repo's .zip file [Download Here](https://github.com/drewcook/shopify_theme_base/archive/master.zip)
 2. Unpack it and move it into your local project directory.
   * You may rename the root to any name of your choice
 3. Navigate into local project directory in console
