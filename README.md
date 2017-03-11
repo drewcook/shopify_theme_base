@@ -22,6 +22,6 @@ This is a boilerplate starter theme for Shopify. This new build process utilizes
 7. Replace dummy data in config.yml with the correct store URL, generated private app password, and theme ID and save the file. This will link up your local files with your shop.
   * Your store URL will be my-store-name.myshopify.com
   * Your password can be found under the private app you just set up under Authentication
-  * Your theme ID can be found by opening up the theme page in the browser by clicking **Edit HTML/CSS**, and it can be found in the web address `my-store-name.myshopify.com/admin/themes/XXXXXXXXX` <- these numbers
+  * Your theme ID can be found by opening up the theme page in the browser by clicking **Edit HTML/CSS**, and it can be found as a set of digits in the web address `my-store-name.myshopify.com/admin/themes/XXXXXXXXX`
   * Make sure that the theme ID is in string format
 8. Now that Theme Kit is set up with the store, run command `theme watch` to start watching for changes on local repo. These changes will now take place on development store, make sure to refresh.
