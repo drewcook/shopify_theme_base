@@ -1,9 +1,9 @@
 # shopify_theme_base
-### This is a boilerplate starter theme for Shopify.  This takes the combination of **Theme Kit** and Shopify's [Skelaton Theme](https://github.com/Shopify/skeleton-theme)
+This is a boilerplate starter theme for Shopify.  This takes the combination of **Theme Kit** and Shopify's [Skelaton Theme](https://github.com/Shopify/skeleton-theme)
 
 ***
 
-To start a new theme build:
+###To start a new theme build:
 
 1. Download .zip file
 2. Unpack zip into project directory
