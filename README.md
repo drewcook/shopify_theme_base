@@ -3,7 +3,7 @@ This is a boilerplate starter theme for Shopify. This new build process utilizes
 
 ***
 
-###Upload initial skelaton theme into your shop
+### Upload initial skelaton theme into your shop
 
 1. Go download the [Skelaton Theme](https://github.com/Shopify/skeleton-theme) as a .zip file
 2. Navigate to your store's Themes section and click *Upload Theme*
@@ -11,7 +11,7 @@ This is a boilerplate starter theme for Shopify. This new build process utilizes
 4. Publish the theme to where it is active on the store
 
 
-###To initialize a new theme development build:
+### To initialize a new theme development build:
 
 1. Download this repo's .zip file [Download Here](https://github.com/drewcook/shopify_theme_base/archive/master.zip)
 2. Unpack it and move it into your local project directory.
